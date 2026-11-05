@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Can you give me a hand?",
+    "description": "Can you help me with this task?",
+    "details": "Example: Can you give me a hand with these boxes?\n\nUsage: Conversational; add with to explain what you need help with."
+  },
+  {
+    "title": "Could you show me how?",
+    "description": "Please demonstrate how to do it.",
+    "details": "Example: I haven’t used this before. Could you show me how?\n\nUsage: A polite request when learning a task or using equipment."
+  },
+  {
+    "title": "I’m working on it",
+    "description": "I’m doing that task, but haven’t finished.",
+    "details": "Example: Have you finished the report? I’m working on it.\n\nUsage: Useful for a brief progress update; add an expected finish time if you can."
+  },
+  {
+    "title": "I’ll get back to you",
+    "description": "I’ll reply after checking or thinking about it.",
+    "details": "Example: I’ll check the dates and get back to you.\n\nUsage: Make the promise clearer by adding when you’ll reply."
+  },
+  {
+    "title": "Can I check something?",
+    "description": "I’d like to ask about a detail.",
+    "details": "Example: Can I check something? Is this due on Friday?\n\nUsage: A polite way to introduce a question."
+  },
+  {
+    "title": "When is it due?",
+    "description": "What is the deadline for this work?",
+    "details": "Example: When is the essay due?\n\nUsage: Use due for the date or time something must be submitted."
+  },
+  {
+    "title": "I need a bit more time",
+    "description": "I can’t finish within the current time available.",
+    "details": "Example: I need a bit more time to finish this.\n\nUsage: Explain how much extra time you need when requesting an extension."
+  },
+  {
+    "title": "I’m running a bit late",
+    "description": "I’m behind schedule and may arrive later than planned.",
+    "details": "Example: I’m running a bit late. I’ll be there in ten minutes.\n\nUsage: Useful for keeping someone informed; give a realistic arrival time."
+  },
+  {
+    "title": "Shall we get started?",
+    "description": "Are we ready to begin?",
+    "details": "Example: Everyone’s here. Shall we get started?\n\nUsage: Useful at the beginning of a meeting or group task."
+  },
+  {
+    "title": "What do you think?",
+    "description": "What is your opinion or feedback?",
+    "details": "Example: Here’s the first draft. What do you think?\n\nUsage: Invite feedback; name the part you want feedback on if needed."
+  },
+  {
+    "title": "Could you send me…?",
+    "description": "Please send me the thing I need.",
+    "details": "Example: Could you send me the notes?\n\nUsage: A polite request for a file, link, document, or other item."
+  },
+  {
+    "title": "Let’s go through it",
+    "description": "Let’s look at it carefully together.",
+    "details": "Example: Let’s go through the instructions first.\n\nUsage: Useful for reviewing a document or explaining steps."
+  },
+  {
+    "title": "Just to check…",
+    "description": "I want to confirm that I’ve understood correctly.",
+    "details": "Example: Just to check, are we meeting online?\n\nUsage: A short introduction to a question about a detail."
+  },
+  {
+    "title": "I’m not sure how to…",
+    "description": "I don’t know the correct way to do something.",
+    "details": "Example: I’m not sure how to upload the file.\n\nUsage: Follow with a verb without -ing: how to use it."
+  },
+  {
+    "title": "I’ve finished…",
+    "description": "I’ve completed this task or activity.",
+    "details": "Example: I’ve finished the slides.\n\nUsage: Use a noun or -ing form: I’ve finished checking the figures."
+  },
+  {
+    "title": "I haven’t finished yet",
+    "description": "The task is still incomplete.",
+    "details": "Example: I haven’t finished yet. I’ve got one section left.\n\nUsage: Yet makes it clear you expect to finish later."
+  },
+  {
+    "title": "I’m falling behind",
+    "description": "I’m making less progress than I need to.",
+    "details": "Example: I’m falling behind with my reading.\n\nUsage: Use with or on to name the work you are struggling to keep up with."
+  },
+  {
+    "title": "I need to catch up",
+    "description": "I need to do work or learning I’ve missed.",
+    "details": "Example: I need to catch up on last week’s lectures.\n\nUsage: Use on for missed work or information; this differs from social catching up."
+  },
+  {
+    "title": "Could you check this?",
+    "description": "Please look at this for mistakes or problems.",
+    "details": "Example: Could you check this before I send it?\n\nUsage: Explain what you want checked if the task is large."
+  },
+  {
+    "title": "Let’s try a different way",
+    "description": "Let’s use another approach.",
+    "details": "Example: This isn’t working. Let’s try a different way.\n\nUsage: A practical suggestion when the current approach isn’t helping."
+  }
+]

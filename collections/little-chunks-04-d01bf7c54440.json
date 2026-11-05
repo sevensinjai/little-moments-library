@@ -1,0 +1,102 @@
+[
+  {
+    "title": "How’s it going?",
+    "description": "How are you, or how are things progressing?",
+    "details": "Example: Hi, Sam. How’s it going?\n\nUsage: A casual greeting; you can answer Pretty good, thanks."
+  },
+  {
+    "title": "What have you been up to?",
+    "description": "What have you been doing recently?",
+    "details": "Example: I haven’t seen you for ages. What have you been up to?\n\nUsage: A friendly question when catching up with someone."
+  },
+  {
+    "title": "Are you free…?",
+    "description": "Do you have time to meet or do something?",
+    "details": "Example: Are you free on Saturday?\n\nUsage: Add a day or time when arranging plans."
+  },
+  {
+    "title": "Do you fancy…?",
+    "description": "Would you like something or like to do something?",
+    "details": "Example: Do you fancy a coffee?\n\nUsage: Informal British English; use a noun or -ing form: fancy going for a walk?"
+  },
+  {
+    "title": "Do you want to come?",
+    "description": "Would you like to join us?",
+    "details": "Example: We’re getting lunch. Do you want to come?\n\nUsage: A straightforward invitation in conversation."
+  },
+  {
+    "title": "Sounds good",
+    "description": "I like or agree with that suggestion.",
+    "details": "Example: Let’s meet at six. Sounds good.\n\nUsage: A casual way to accept a plan."
+  },
+  {
+    "title": "That works for me",
+    "description": "That arrangement suits my schedule or needs.",
+    "details": "Example: How about Tuesday? That works for me.\n\nUsage: Useful when agreeing on a time, place, or plan."
+  },
+  {
+    "title": "Maybe another time",
+    "description": "I can’t or don’t want to do that now.",
+    "details": "Example: Thanks for asking, but maybe another time.\n\nUsage: A gentle refusal; it doesn’t promise a future meeting."
+  },
+  {
+    "title": "Let me know",
+    "description": "Tell me when you have an answer or more information.",
+    "details": "Example: Let me know when you’re free.\n\nUsage: Use when waiting for someone to decide or check something."
+  },
+  {
+    "title": "We should catch up",
+    "description": "We should meet and share our recent news.",
+    "details": "Example: We should catch up over lunch.\n\nUsage: Usually said to someone you already know."
+  },
+  {
+    "title": "Make yourself at home",
+    "description": "Relax and feel comfortable in my home.",
+    "details": "Example: Come in and make yourself at home.\n\nUsage: A friendly welcome to a guest."
+  },
+  {
+    "title": "Help yourself",
+    "description": "You can take some without asking me again.",
+    "details": "Example: There’s cake in the kitchen. Help yourself.\n\nUsage: Use when offering food or something you have made available."
+  },
+  {
+    "title": "It’s on me",
+    "description": "I’ll pay for this.",
+    "details": "Example: Let’s get a coffee. It’s on me.\n\nUsage: An informal offer to pay for the other person too."
+  },
+  {
+    "title": "Thanks for having me",
+    "description": "Thank you for inviting and welcoming me.",
+    "details": "Example: That was lovely. Thanks for having me.\n\nUsage: Useful when leaving someone’s home after a visit or meal."
+  },
+  {
+    "title": "It was nice seeing you",
+    "description": "I enjoyed spending time with you.",
+    "details": "Example: It was nice seeing you. Let’s do it again.\n\nUsage: A friendly goodbye after meeting someone you know."
+  },
+  {
+    "title": "Say hi to…",
+    "description": "Please pass on my friendly greeting.",
+    "details": "Example: Say hi to your sister for me.\n\nUsage: A casual alternative to sending someone your regards."
+  },
+  {
+    "title": "Keep in touch",
+    "description": "Let’s continue contacting each other.",
+    "details": "Example: Good luck with the move. Keep in touch.\n\nUsage: Useful when saying goodbye to someone you may not see soon."
+  },
+  {
+    "title": "Sorry, I didn’t mean that",
+    "description": "What I said wasn’t what I intended.",
+    "details": "Example: Sorry, I didn’t mean that. I’m just tired.\n\nUsage: Use to take back hurtful or inaccurate words; explain or apologise properly if needed."
+  },
+  {
+    "title": "Are you okay?",
+    "description": "Is something wrong, or do you need help?",
+    "details": "Example: You seem quiet. Are you okay?\n\nUsage: Your tone should show care when checking how someone feels."
+  },
+  {
+    "title": "I’m here if you need me",
+    "description": "You can ask me for support.",
+    "details": "Example: That sounds tough. I’m here if you need me.\n\nUsage: A reassuring offer; leave the person room to decide whether to talk."
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "The other day",
+    "description": "A few days ago, without saying exactly when.",
+    "details": "Example: I saw Sam at the station the other day.\n\nUsage: Use for a recent event in the past, not for tomorrow."
+  },
+  {
+    "title": "Guess what?",
+    "description": "I have some news that may surprise you.",
+    "details": "Example: Guess what? I got the job!\n\nUsage: An informal way to get someone’s attention before sharing news."
+  },
+  {
+    "title": "I was just about to…",
+    "description": "I was going to do something very soon.",
+    "details": "Example: I was just about to leave when you called.\n\nUsage: Often followed by when and an event that interrupted the plan."
+  },
+  {
+    "title": "At first",
+    "description": "At the beginning, before something changed.",
+    "details": "Example: At first, I thought it was a joke.\n\nUsage: Usually followed later by what changed."
+  },
+  {
+    "title": "I was on my way to…",
+    "description": "I was travelling towards a place.",
+    "details": "Example: I was on my way to work when you called.\n\nUsage: Follow with a place. Leave out to before home: on my way home."
+  },
+  {
+    "title": "After that",
+    "description": "Following the event I just mentioned.",
+    "details": "Example: We checked in. After that, we went out for dinner.\n\nUsage: Use to move to the next part of a story."
+  },
+  {
+    "title": "While I was…",
+    "description": "During an activity I was doing.",
+    "details": "Example: While I was cooking, the phone rang.\n\nUsage: Follow with an -ing form to describe an activity in progress."
+  },
+  {
+    "title": "All of a sudden",
+    "description": "Something happened very suddenly.",
+    "details": "Example: All of a sudden, the lights went out.\n\nUsage: Useful for an unexpected change in a story."
+  },
+  {
+    "title": "I didn’t expect that",
+    "description": "Something surprised me.",
+    "details": "Example: She offered to pay. I didn’t expect that.\n\nUsage: Use after explaining what happened."
+  },
+  {
+    "title": "It turns out…",
+    "description": "I’ve discovered something I didn’t know before.",
+    "details": "Example: It turns out we live on the same street.\n\nUsage: Use turned out when telling a story entirely in the past."
+  },
+  {
+    "title": "I ended up…",
+    "description": "This was what I finally did, often without planning it.",
+    "details": "Example: I ended up walking home.\n\nUsage: Follow with an -ing form or a place: ended up at the wrong station."
+  },
+  {
+    "title": "By the time…",
+    "description": "When this moment arrived, something else had happened.",
+    "details": "Example: By the time we got there, the shop had closed.\n\nUsage: Use to connect the timing of two events."
+  },
+  {
+    "title": "I nearly…",
+    "description": "I almost did something, but didn’t.",
+    "details": "Example: I nearly missed the train.\n\nUsage: The example means you caught the train, but only just."
+  },
+  {
+    "title": "Luckily…",
+    "description": "Something happened that helped or prevented a problem.",
+    "details": "Example: Luckily, I had a spare key.\n\nUsage: Introduce the fortunate part of the situation."
+  },
+  {
+    "title": "The problem was…",
+    "description": "This was the difficulty we faced.",
+    "details": "Example: The problem was, I didn’t have his number.\n\nUsage: Use to explain what made the situation difficult."
+  },
+  {
+    "title": "Nothing went to plan",
+    "description": "Everything happened differently from what I intended.",
+    "details": "Example: We left late and got lost. Nothing went to plan.\n\nUsage: Useful for summarising a series of problems or unexpected changes."
+  },
+  {
+    "title": "In the end",
+    "description": "This was the final result after everything that happened.",
+    "details": "Example: In the end, we stayed home.\n\nUsage: Use for the outcome of a situation or decision."
+  },
+  {
+    "title": "At the time",
+    "description": "Back then, rather than with what I know now.",
+    "details": "Example: At the time, I thought it was a good idea.\n\nUsage: Useful when your view has changed since the event."
+  },
+  {
+    "title": "Looking back",
+    "description": "Thinking about a past situation now.",
+    "details": "Example: Looking back, I should have asked for help.\n\nUsage: Introduce what you now think about an earlier experience."
+  },
+  {
+    "title": "Long story short",
+    "description": "I’ll skip the details and give you the result.",
+    "details": "Example: Long story short, we missed the train.\n\nUsage: Informal; useful when a story has become lengthy."
+  }
+]

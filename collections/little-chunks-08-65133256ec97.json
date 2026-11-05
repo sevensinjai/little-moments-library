@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Let me think",
+    "description": "Give me a moment to consider my answer.",
+    "details": "Example: Let me think. Thursday might work.\n\nUsage: A natural way to pause while keeping your turn to speak."
+  },
+  {
+    "title": "How do I put this?",
+    "description": "I’m choosing how to explain something carefully.",
+    "details": "Example: How do I put this? It’s not quite what I expected.\n\nUsage: Useful before a difficult or delicate explanation."
+  },
+  {
+    "title": "You know what?",
+    "description": "I’ve just had a thought or made a decision.",
+    "details": "Example: You know what? Let’s get a taxi.\n\nUsage: Informal; draws attention to what you’re about to say."
+  },
+  {
+    "title": "Actually…",
+    "description": "I want to correct something or add a different fact.",
+    "details": "Example: Actually, I’m free tomorrow.\n\nUsage: Can sound blunt when correcting someone; use a friendly tone."
+  },
+  {
+    "title": "By the way",
+    "description": "I want to mention something on another topic.",
+    "details": "Example: By the way, your parcel arrived.\n\nUsage: Introduce a side point or a new topic."
+  },
+  {
+    "title": "Anyway…",
+    "description": "Let’s move on or return to the main topic.",
+    "details": "Example: Anyway, what time shall we meet?\n\nUsage: Can also help end a conversation; avoid sounding dismissive."
+  },
+  {
+    "title": "Speaking of…",
+    "description": "That topic reminds me of something related.",
+    "details": "Example: Speaking of holidays, have you booked yours?\n\nUsage: Follow with the topic that connects the two points."
+  },
+  {
+    "title": "Come to think of it",
+    "description": "I’ve just remembered or realised something.",
+    "details": "Example: Come to think of it, I’ve seen that film.\n\nUsage: Use when a thought occurs to you during the conversation."
+  },
+  {
+    "title": "Sorry, go ahead",
+    "description": "Please speak first or continue.",
+    "details": "Example: Sorry, go ahead. What were you saying?\n\nUsage: Useful when you both start speaking at once."
+  },
+  {
+    "title": "Sorry to interrupt",
+    "description": "I need to speak before you finish.",
+    "details": "Example: Sorry to interrupt, but your taxi’s here.\n\nUsage: A polite interruption; leave space for the person to resume."
+  },
+  {
+    "title": "Go on",
+    "description": "Please continue what you were saying.",
+    "details": "Example: You were telling me about your trip. Go on.\n\nUsage: Here it encourages a story; the meaning changes in other contexts."
+  },
+  {
+    "title": "What happened next?",
+    "description": "Tell me the next part of the story.",
+    "details": "Example: You missed the bus? What happened next?\n\nUsage: Shows interest and encourages the person to continue."
+  },
+  {
+    "title": "Really?",
+    "description": "Is that true? I’m interested or surprised.",
+    "details": "Example: I used to live in Spain. Really? Whereabouts?\n\nUsage: Tone matters: it can express interest, surprise, or doubt."
+  },
+  {
+    "title": "How come?",
+    "description": "Why is that?",
+    "details": "Example: I’m leaving early. How come?\n\nUsage: Informal; if adding a clause, use How come you’re leaving?, not How come are you leaving?"
+  },
+  {
+    "title": "What do you mean?",
+    "description": "Can you explain what you’re saying?",
+    "details": "Example: What do you mean by flexible hours?\n\nUsage: A neutral question with a gentle tone; a sharp tone can sound confrontational."
+  },
+  {
+    "title": "Could you say that again?",
+    "description": "Please repeat what you said.",
+    "details": "Example: Sorry, could you say that again? I didn’t hear you.\n\nUsage: A polite request when you missed something."
+  },
+  {
+    "title": "I didn’t catch that",
+    "description": "I didn’t hear or understand that part.",
+    "details": "Example: Sorry, I didn’t catch your name.\n\nUsage: Often followed by a request to repeat the words."
+  },
+  {
+    "title": "Do you mean…?",
+    "description": "Is this what you’re trying to say?",
+    "details": "Example: Do you mean this Friday or next Friday?\n\nUsage: Check a specific interpretation rather than guessing."
+  },
+  {
+    "title": "You know what I mean?",
+    "description": "Do you understand the idea or feeling I’m describing?",
+    "details": "Example: It’s hard to switch off after work, you know what I mean?\n\nUsage: Informal; seeks understanding rather than testing the listener."
+  },
+  {
+    "title": "Where were we?",
+    "description": "What were we talking about before the interruption?",
+    "details": "Example: Sorry about the phone call. Where were we?\n\nUsage: Use to return to a conversation after a distraction."
+  }
+]

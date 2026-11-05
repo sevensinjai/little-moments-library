@@ -1,0 +1,102 @@
+[
+  {
+    "title": "You alright?",
+    "description": "Hello; how are you?",
+    "details": "Example: Morning! You alright?\n\nUsage: Informal British greeting. It can also be a real welfare check, depending on tone and context."
+  },
+  {
+    "title": "Cheers",
+    "description": "Thanks.",
+    "details": "Example: Cheers for the lift.\n\nUsage: Informal; also used when making a toast. Here it expresses thanks."
+  },
+  {
+    "title": "No worries",
+    "description": "That’s okay; it isn’t a problem.",
+    "details": "Example: Sorry I’m late. No worries.\n\nUsage: An informal reply to an apology or thanks; also used outside Britain."
+  },
+  {
+    "title": "Not to worry",
+    "description": "There’s no need to be concerned.",
+    "details": "Example: Not to worry. We can catch the next bus.\n\nUsage: A reassuring response to a small problem."
+  },
+  {
+    "title": "Fancy a cuppa?",
+    "description": "Would you like a cup of tea?",
+    "details": "Example: I’m putting the kettle on. Fancy a cuppa?\n\nUsage: Informal British English; cuppa usually means a cup of tea."
+  },
+  {
+    "title": "I’ll put the kettle on",
+    "description": "I’ll boil water, usually to make tea or coffee.",
+    "details": "Example: Come in. I’ll put the kettle on.\n\nUsage: Often serves as an informal offer of a hot drink."
+  },
+  {
+    "title": "Give me a shout",
+    "description": "Let me know or ask me when you need something.",
+    "details": "Example: Give me a shout if you need a hand.\n\nUsage: Informal; it needn’t involve actually shouting."
+  },
+  {
+    "title": "I’ll pop in",
+    "description": "I’ll make a short visit.",
+    "details": "Example: I’ll pop in after work.\n\nUsage: Pop round is another informal British way to describe a short visit to someone’s home."
+  },
+  {
+    "title": "I’ll be a minute",
+    "description": "I’ll be ready or back very soon.",
+    "details": "Example: I’m just finding my keys. I’ll be a minute.\n\nUsage: Informal; usually means a short time, not exactly sixty seconds."
+  },
+  {
+    "title": "I’m just having a look",
+    "description": "I’m browsing and don’t need help yet.",
+    "details": "Example: Can I help you? Thanks, I’m just having a look.\n\nUsage: A polite response to staff when browsing in a shop."
+  },
+  {
+    "title": "Takeaway",
+    "description": "Food bought from a restaurant to eat elsewhere.",
+    "details": "Example: Shall we get a takeaway tonight?\n\nUsage: British usage; American English commonly uses takeout."
+  },
+  {
+    "title": "Is that to eat in?",
+    "description": "Will you eat the food here?",
+    "details": "Example: Is that to eat in or take away?\n\nUsage: A question staff may ask. A customer can answer To eat in, please."
+  },
+  {
+    "title": "I can’t be bothered",
+    "description": "I don’t want to make the effort.",
+    "details": "Example: I can’t be bothered to cook tonight.\n\nUsage: Informal; can sound dismissive if used about helping someone or doing your job."
+  },
+  {
+    "title": "I’m shattered",
+    "description": "I’m extremely tired.",
+    "details": "Example: I’m shattered. I’m going to bed.\n\nUsage: Informal British English; use tired in a more neutral situation."
+  },
+  {
+    "title": "That’s a bit pricey",
+    "description": "That seems quite expensive.",
+    "details": "Example: Twenty pounds for lunch? That’s a bit pricey.\n\nUsage: Informal; a mild complaint about cost."
+  },
+  {
+    "title": "It’s a bit of a pain",
+    "description": "It’s inconvenient or annoying.",
+    "details": "Example: Changing trains twice is a bit of a pain.\n\nUsage: Informal; here pain describes inconvenience, not physical pain."
+  },
+  {
+    "title": "I’m not feeling great",
+    "description": "I feel a little unwell or low.",
+    "details": "Example: I’m not feeling great, so I’m staying home.\n\nUsage: Can refer to physical health or mood; add detail if needed."
+  },
+  {
+    "title": "I’ll sort it out",
+    "description": "I’ll deal with the problem or arrangement.",
+    "details": "Example: The booking’s wrong. I’ll sort it out.\n\nUsage: Informal; a promise to handle something."
+  },
+  {
+    "title": "Have you got…?",
+    "description": "Do you have something?",
+    "details": "Example: Have you got a spare pen?\n\nUsage: A natural British way to ask about possession or availability."
+  },
+  {
+    "title": "I’ll leave you to it",
+    "description": "I’ll let you continue what you were doing.",
+    "details": "Example: You look busy. I’ll leave you to it.\n\nUsage: A friendly way to finish a chat or stop interrupting someone."
+  }
+]

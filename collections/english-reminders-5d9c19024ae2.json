@@ -1,0 +1,132 @@
+[
+  {
+    "title": "With me?",
+    "description": "Do you understand so far?",
+    "details": "Example: Are you with me so far?\n\nUsage: A casual comprehension check. Does that make sense? is another option; avoid a tone that sounds like a test."
+  },
+  {
+    "title": "Flat out",
+    "description": "Very busy.",
+    "details": "Example: I’m flat out at work today.\n\nUsage: Informal; in this example it means busy, not lying flat or moving at full speed."
+  },
+  {
+    "title": "Rustle up",
+    "description": "Make something to eat quickly.",
+    "details": "Example: I’ll rustle up some lunch.\n\nUsage: Informal; often used with a quick meal, snack, or whatever food is available."
+  },
+  {
+    "title": "In a rush",
+    "description": "In a hurry, with little time.",
+    "details": "Example: I’m in a rush. Can I call you later?\n\nUsage: Use when you need to do something or leave quickly."
+  },
+  {
+    "title": "Not a single…",
+    "description": "Not even one.",
+    "details": "Example: I haven’t had a single break today.\n\nUsage: Use with a singular noun to emphasise none: not a single seat."
+  },
+  {
+    "title": "Beat the eggs",
+    "description": "Mix the egg whites and yolks together.",
+    "details": "Example: Beat the eggs with a fork.\n\nUsage: A cooking instruction; beat means stir briskly here, not hit."
+  },
+  {
+    "title": "Omelette",
+    "description": "A dish made by cooking beaten eggs in a pan.",
+    "details": "Example: I’m making a cheese omelette.\n\nUsage: Can be plain or have a filling. It isn’t specifically the filling of a tortilla roll."
+  },
+  {
+    "title": "Tortilla",
+    "description": "A thin, round flatbread used for wraps.",
+    "details": "Example: Have we got any tortillas?\n\nUsage: This card uses the flatbread meaning; a Spanish tortilla can mean a thick egg-and-potato dish."
+  },
+  {
+    "title": "Filling",
+    "description": "The food inside a sandwich, wrap, or pastry.",
+    "details": "Example: What filling would you like?\n\nUsage: Here filling is a noun. As an adjective, a filling meal makes you feel full."
+  },
+  {
+    "title": "Dried parsley",
+    "description": "Parsley preserved as dried flakes for cooking.",
+    "details": "Example: Add a little dried parsley.\n\nUsage: A specific cooking ingredient; useful when following a recipe rather than in general small talk."
+  },
+  {
+    "title": "Garlic granules",
+    "description": "Small dried pieces of garlic used as seasoning.",
+    "details": "Example: Can I use garlic granules instead?\n\nUsage: Useful for recipe instructions and ingredient substitutions."
+  },
+  {
+    "title": "Kitchen staples",
+    "description": "Basic ingredients you keep and use regularly.",
+    "details": "Example: Rice and pasta are kitchen staples.\n\nUsage: Store cupboard staples is another British expression for basic ingredients kept at home."
+  },
+  {
+    "title": "Meaty texture",
+    "description": "A feel when eaten that resembles meat.",
+    "details": "Example: These mushrooms have a meaty texture.\n\nUsage: Texture describes how food feels in your mouth, rather than its flavour."
+  },
+  {
+    "title": "Flexible",
+    "description": "Able to change to suit different needs.",
+    "details": "Example: My working hours are flexible.\n\nUsage: Useful for arrangements, schedules, and people. For an ingredient with many uses, versatile is more precise."
+  },
+  {
+    "title": "Flavour boost",
+    "description": "Something that gives food more flavour.",
+    "details": "Example: Lemon juice gives it a flavour boost.\n\nUsage: A cooking phrase; add more flavour is a simpler alternative."
+  },
+  {
+    "title": "Presenter",
+    "description": "Someone who introduces or leads a programme.",
+    "details": "Example: Who’s the presenter of this programme?\n\nUsage: Used in British English for television and radio; host can also work."
+  },
+  {
+    "title": "Pronouns",
+    "description": "Words such as I, you, she, and they.",
+    "details": "Example: The presenter’s cooking. She’s making an omelette.\n\nUsage: A grammar reminder: she refers back to the presenter, so you don’t need to repeat the name or role."
+  },
+  {
+    "title": "Present tense",
+    "description": "A verb form used for habits, facts, and some summaries.",
+    "details": "Example: In the video, she makes a quick lunch.\n\nUsage: The simple present can summarise a video. The past is also possible when recounting what you watched."
+  },
+  {
+    "title": "Salt and pepper",
+    "description": "Two seasonings often used together.",
+    "details": "Example: Could you pass the salt and pepper?\n\nUsage: Pepper is uncountable when referring to the seasoning; peppers can refer to the vegetables."
+  },
+  {
+    "title": "Vocabulary",
+    "description": "The words someone knows or uses.",
+    "details": "Example: I picked up a few new words today.\n\nUsage: When discussing words you learn, say some vocabulary or a few new words, not a few vocabularies."
+  },
+  {
+    "title": "Make a meal",
+    "description": "Prepare food to eat as a meal.",
+    "details": "Example: Let’s make a quick meal before we go.\n\nUsage: Make dinner and make lunch are useful everyday variations."
+  },
+  {
+    "title": "What should I call her?",
+    "description": "What name or title should I use for her?",
+    "details": "Example: What should I call her: Dr Lee or Anna?\n\nUsage: Use when checking how to address someone. For a job or role, ask What does she do?"
+  },
+  {
+    "title": "Common fillings",
+    "description": "Ingredients people often put inside sandwiches or wraps.",
+    "details": "Example: What do you usually put in your wraps?\n\nUsage: A practical question about food preferences; you can also ask What’s your favourite filling?"
+  },
+  {
+    "title": "Even though",
+    "description": "Despite the fact that something is true.",
+    "details": "Example: Even though I’m tired, I’m going out.\n\nUsage: Use for a real contrast. Don’t add but to the same sentence: Even though I’m tired, but… is incorrect."
+  },
+  {
+    "title": "Summary",
+    "description": "A short account of the main points.",
+    "details": "Example: The video shows how to make a quick lunch.\n\nUsage: A summary leaves out smaller details. Mention the topic and the main points in your own words."
+  },
+  {
+    "title": "Keep it short",
+    "description": "Use fewer words or take less time.",
+    "details": "Example: I’ll keep it short. We need to leave by six.\n\nUsage: Useful for speaking and writing. Include enough information for the other person to understand."
+  }
+]

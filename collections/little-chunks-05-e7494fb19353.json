@@ -1,0 +1,102 @@
+[
+  {
+    "title": "It’s because…",
+    "description": "This is the reason something happened.",
+    "details": "Example: It’s because the trains aren’t running.\n\nUsage: Use to answer a why question or explain a situation."
+  },
+  {
+    "title": "That’s why…",
+    "description": "This explains the result I’m talking about.",
+    "details": "Example: I missed the bus. That’s why I’m late.\n\nUsage: Give the reason first, then the result after that’s why."
+  },
+  {
+    "title": "The thing is…",
+    "description": "Here is the important point or difficulty.",
+    "details": "Example: I’d love to come. The thing is, I’m working.\n\nUsage: Conversational; useful before explaining a complication."
+  },
+  {
+    "title": "To be honest…",
+    "description": "I’m going to say what I really think or feel.",
+    "details": "Example: To be honest, I’d prefer to wait.\n\nUsage: Useful before a frank explanation or preference; it can sound critical if your tone is harsh."
+  },
+  {
+    "title": "What I mean is…",
+    "description": "This is the idea I’m trying to communicate.",
+    "details": "Example: What I mean is, we don’t have to decide today.\n\nUsage: Useful when someone hasn’t understood your first explanation."
+  },
+  {
+    "title": "For example",
+    "description": "Here is one case that shows what I mean.",
+    "details": "Example: We could cook something simple, for example, pasta.\n\nUsage: Use to make a general suggestion or explanation more specific."
+  },
+  {
+    "title": "It depends on…",
+    "description": "The answer changes according to this factor.",
+    "details": "Example: It depends on how much it costs.\n\nUsage: Follow with a noun or a question clause: depends on the weather."
+  },
+  {
+    "title": "The main reason is…",
+    "description": "This is the most important explanation.",
+    "details": "Example: The main reason is that it’s closer to work.\n\nUsage: Use a noun or a clause beginning with that."
+  },
+  {
+    "title": "The problem is…",
+    "description": "This is the difficulty we need to consider.",
+    "details": "Example: The problem is, we don’t have enough time.\n\nUsage: Useful before explaining what prevents a plan from working."
+  },
+  {
+    "title": "So basically…",
+    "description": "Here is the simple version of the explanation.",
+    "details": "Example: So basically, we need to book before Friday.\n\nUsage: Conversational; summarise the key point without too many details."
+  },
+  {
+    "title": "In other words",
+    "description": "I’ll express the same idea in a different way.",
+    "details": "Example: It’s optional. In other words, you don’t have to go.\n\nUsage: Use to make a word or statement clearer."
+  },
+  {
+    "title": "Even if…",
+    "description": "This condition would not change the result.",
+    "details": "Example: Even if it rains, I’m still going.\n\nUsage: Use for a possibility; even though introduces a fact."
+  },
+  {
+    "title": "As long as…",
+    "description": "This is okay if this condition is met.",
+    "details": "Example: We can go as long as we’re back by six.\n\nUsage: Here it means provided that, rather than a length of time."
+  },
+  {
+    "title": "Otherwise…",
+    "description": "This will happen if we don’t do that.",
+    "details": "Example: We need to leave now. Otherwise, we’ll be late.\n\nUsage: Useful for explaining why an action is necessary."
+  },
+  {
+    "title": "It doesn’t mean…",
+    "description": "That is not the conclusion you should draw.",
+    "details": "Example: It’s expensive, but it doesn’t mean it’s better.\n\nUsage: Use to question an assumption about what something shows."
+  },
+  {
+    "title": "That makes sense",
+    "description": "I understand the reason or logic.",
+    "details": "Example: You live nearby? That makes sense, then.\n\nUsage: Acknowledges an explanation; it needn’t mean you agree with every detail."
+  },
+  {
+    "title": "I see what you mean",
+    "description": "I understand the point you’re making.",
+    "details": "Example: I see what you mean. That would take longer.\n\nUsage: Useful for acknowledging someone’s explanation or concern."
+  },
+  {
+    "title": "There’s more to it",
+    "description": "The situation is more complicated than it seems.",
+    "details": "Example: It’s not just about money. There’s more to it.\n\nUsage: Follow with the missing explanation when you can."
+  },
+  {
+    "title": "It’s not just…",
+    "description": "There is another important factor as well.",
+    "details": "Example: It’s not just the price. It’s the travel time too.\n\nUsage: Often followed by a second sentence explaining the other factor."
+  },
+  {
+    "title": "That said…",
+    "description": "I want to add a point that balances what I said.",
+    "details": "Example: It’s expensive. That said, we’d use it every day.\n\nUsage: Use for a qualification or a different side of the issue."
+  }
+]

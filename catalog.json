@@ -3,66 +3,66 @@
   "collections": [
     {
       "id": "english-reminders",
-      "title": "Everyday English",
-      "summary": "Useful phrases with meanings and explanations.",
+      "title": "Everyday English · Food & learning",
+      "summary": "Food, cooking, and learning vocabulary with clear meanings and practical examples.",
       "reminderCount": 26,
-      "file": "collections/english-reminders-8f67fb91eba5.json"
+      "file": "collections/english-reminders-5d9c19024ae2.json"
     },
     {
       "id": "english-reminders-pronunciation",
       "title": "English pronunciation",
-      "summary": "Everyday phrases with British IPA, pronunciation hints, and examples.",
+      "summary": "British pronunciation aids for the food and learning pack, with practical examples.",
       "reminderCount": 26,
-      "file": "collections/english-reminders-pronunciation-fa476c406ecf.json"
+      "file": "collections/english-reminders-pronunciation-c842fda798ba.json"
     },
     {
       "id": "little-chunks-02",
       "title": "02 · Opinions & feelings",
-      "summary": "Little Chunks module 02: 20 phrases with meanings, everyday examples, and usage notes.",
+      "summary": "20 practical ways to share opinions, preferences, and feelings in everyday conversation.",
       "reminderCount": 20,
-      "file": "collections/little-chunks-02-8ad19f0dd883.json"
+      "file": "collections/little-chunks-02-d3f8cae6c926.json"
     },
     {
       "id": "little-chunks-03",
       "title": "03 · Storytelling",
-      "summary": "Little Chunks module 03: 20 phrases with meanings, everyday examples, and usage notes.",
+      "summary": "20 useful phrases for telling someone what happened, from the first event to the outcome.",
       "reminderCount": 20,
-      "file": "collections/little-chunks-03-89d70e2cc8ba.json"
+      "file": "collections/little-chunks-03-48f32c4f580d.json"
     },
     {
       "id": "little-chunks-04",
       "title": "04 · Socialising & relationships",
-      "summary": "Little Chunks module 04: 20 phrases with meanings, everyday examples, and usage notes.",
+      "summary": "20 everyday phrases for making plans, catching up, welcoming people, and showing support.",
       "reminderCount": 20,
-      "file": "collections/little-chunks-04-72b9349ad770.json"
+      "file": "collections/little-chunks-04-d01bf7c54440.json"
     },
     {
       "id": "little-chunks-05",
       "title": "05 · Explaining & reasoning",
-      "summary": "Little Chunks module 05: 20 phrases with meanings, everyday examples, and usage notes.",
+      "summary": "20 conversational ways to explain reasons, give examples, and check understanding.",
       "reminderCount": 20,
-      "file": "collections/little-chunks-05-636c8e4a5cda.json"
+      "file": "collections/little-chunks-05-e7494fb19353.json"
     },
     {
       "id": "little-chunks-06",
       "title": "06 · Work & university",
-      "summary": "Little Chunks module 06: 20 phrases with meanings, everyday examples, and usage notes.",
+      "summary": "20 practical phrases for asking for help, checking details, and talking about your progress.",
       "reminderCount": 20,
-      "file": "collections/little-chunks-06-8e0bdd907d6c.json"
+      "file": "collections/little-chunks-06-b29a0d9964d6.json"
     },
     {
       "id": "little-chunks-07",
-      "title": "07 · Advanced British expressions",
-      "summary": "Little Chunks module 07: 20 phrases with meanings, everyday examples, and usage notes.",
+      "title": "07 · Everyday British English",
+      "summary": "20 useful expressions for daily life in Britain, with clear notes on informal usage.",
       "reminderCount": 20,
-      "file": "collections/little-chunks-07-c445d20fca04.json"
+      "file": "collections/little-chunks-07-8d0b76ab8fad.json"
     },
     {
       "id": "little-chunks-08",
       "title": "08 · Fluency & conversation flow",
-      "summary": "Little Chunks module 08: 20 phrases with meanings, everyday examples, and usage notes.",
+      "summary": "20 ways to keep a conversation going, ask for clarification, and take turns naturally.",
       "reminderCount": 20,
-      "file": "collections/little-chunks-08-d98bc6ecb3f7.json"
+      "file": "collections/little-chunks-08-65133256ec97.json"
     }
   ]
 }

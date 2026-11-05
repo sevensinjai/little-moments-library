@@ -27,12 +27,22 @@ The initial English collections come from the app's existing prepared import set
 
 ## Little Chunks modules 02–08
 
-Imported from [Little Chunks](https://little-chunks-felix-1105.tomchanatuk.chatgpt.site) on 5 November 2026. Each module contains 20 reminders (140 total), preserving the website’s `title`, meaning, example, and usage text in its Little Moments export format. Module 01 is reserved on the source site and is not included. The source export has no IPA or pronunciation guide fields; none have been invented.
+Originally imported from [Little Chunks](https://little-chunks-felix-1105.tomchanatuk.chatgpt.site) on 5 November 2026. Each module contains 20 reminders (140 total). The current library editions have been independently revised for practical everyday conversation; they are no longer exact copies of the website. Module 01 is reserved on the source site and is not included. These seven modules do not include IPA or pronunciation guides.
 
 - 02 · Opinions & feelings
 - 03 · Storytelling
 - 04 · Socialising & relationships
 - 05 · Explaining & reasoning
 - 06 · Work & university
-- 07 · Advanced British expressions
+- 07 · Everyday British English
 - 08 · Fluency & conversation flow
+
+## Everyday conversation revision — 5 November 2026
+
+All nine catalog collections (192 cards) have revised meanings, examples, and usage notes. The seven conversation modules favour reusable spoken phrases over formal argument, workplace clichés, and elaborate idioms. The British English module now covers ordinary greetings, shopping, food, and daily arrangements. This is an editorial selection for usefulness, not a measured frequency ranking.
+
+The two original food and learning packs retain their topics. Their explanations now work without the original cooking video. The pronunciation pack retains its existing British IPA and approximate respellings, with corrected meaning/context where needed. Its short label “Call her?” is distinguished from the longer example question.
+
+Every card has a short `Example:` followed by a separate `Usage:` note. This lets the companion widget extract the example while keeping fuller explanations in the app. Collection IDs remain stable and previously published files are retained for cached catalogs.
+
+To get these editions in the app, refresh **Import reminders → Browse cloud library**, then import the collection as a new local copy. Previously imported reminders and quiz history are not overwritten. Importing into an existing collection appends cards; it does not replace or merge the older edition.

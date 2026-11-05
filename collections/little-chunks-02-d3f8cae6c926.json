@@ -1,0 +1,102 @@
+[
+  {
+    "title": "I feel like…",
+    "description": "I have the impression that something is true.",
+    "details": "Example: I feel like we need more time.\n\nUsage: Follow with a sentence for an impression. With a noun or -ing form, it can mean wanting something: I feel like a walk."
+  },
+  {
+    "title": "I think so",
+    "description": "I believe the answer is yes.",
+    "details": "Example: Is the shop still open? I think so.\n\nUsage: An answer when you believe something is true but are not completely sure."
+  },
+  {
+    "title": "I don’t think so",
+    "description": "I believe the answer is no.",
+    "details": "Example: Do we need to book? I don’t think so.\n\nUsage: A softer negative answer than a definite no."
+  },
+  {
+    "title": "I guess so",
+    "description": "I agree, but without much certainty or enthusiasm.",
+    "details": "Example: Shall we leave it until tomorrow? I guess so.\n\nUsage: Your tone can make this sound reluctant."
+  },
+  {
+    "title": "I’m not too sure",
+    "description": "I have doubts or haven’t decided.",
+    "details": "Example: I’m not too sure about that colour.\n\nUsage: Use alone or add about and the thing you are unsure of."
+  },
+  {
+    "title": "I’m not convinced",
+    "description": "I still doubt that something is right or will work.",
+    "details": "Example: I’m not convinced this will work.\n\nUsage: Useful for questioning an idea; add a reason to explain your doubt."
+  },
+  {
+    "title": "I agree with you",
+    "description": "I share your opinion.",
+    "details": "Example: I agree with you about the price.\n\nUsage: Use agree with someone, without am: I agree, not I am agree."
+  },
+  {
+    "title": "I don’t really agree",
+    "description": "I have a different opinion.",
+    "details": "Example: I don’t really agree. I thought it was good.\n\nUsage: Really softens the disagreement, though your tone still matters."
+  },
+  {
+    "title": "That’s true",
+    "description": "I accept that what you said is correct.",
+    "details": "Example: That’s true. We could go tomorrow instead.\n\nUsage: A short way to acknowledge someone’s point."
+  },
+  {
+    "title": "I’d rather…",
+    "description": "I would prefer a different choice.",
+    "details": "Example: I’d rather stay home tonight.\n\nUsage: Follow with a verb without to: I’d rather walk."
+  },
+  {
+    "title": "I’m leaning towards…",
+    "description": "I prefer one option, but haven’t decided yet.",
+    "details": "Example: I’m leaning towards the blue one.\n\nUsage: Follow with a noun or -ing form: leaning towards taking the train."
+  },
+  {
+    "title": "I’m not really into…",
+    "description": "I don’t particularly enjoy or like something.",
+    "details": "Example: I’m not really into football.\n\nUsage: Informal; use with an activity, topic, or type of thing."
+  },
+  {
+    "title": "I’m looking forward to…",
+    "description": "I’m excited about something that is coming.",
+    "details": "Example: I’m looking forward to the weekend.\n\nUsage: Follow to with a noun or -ing form: looking forward to seeing you."
+  },
+  {
+    "title": "I’m a bit nervous",
+    "description": "I feel slightly worried about what might happen.",
+    "details": "Example: I’m a bit nervous about the interview.\n\nUsage: Add about to say what is worrying you."
+  },
+  {
+    "title": "I’m glad…",
+    "description": "I feel pleased about something.",
+    "details": "Example: I’m glad you could come.\n\nUsage: Follow with a sentence or to and a verb: glad to hear it."
+  },
+  {
+    "title": "That’s a bit annoying",
+    "description": "That bothers me slightly.",
+    "details": "Example: The bus has gone already? That’s a bit annoying.\n\nUsage: A mild complaint about a situation."
+  },
+  {
+    "title": "I’m fed up with…",
+    "description": "I’m tired and annoyed because something keeps happening.",
+    "details": "Example: I’m fed up with these delays.\n\nUsage: Stronger than a small complaint; follow with a noun or -ing form."
+  },
+  {
+    "title": "What a relief",
+    "description": "I’m pleased that a worry or problem is over.",
+    "details": "Example: You found your keys? What a relief!\n\nUsage: Use when you hear good news after worrying."
+  },
+  {
+    "title": "I’m disappointed",
+    "description": "I feel sad because something wasn’t as good as I hoped.",
+    "details": "Example: I’m disappointed we can’t go.\n\nUsage: Use about a situation or with someone or something."
+  },
+  {
+    "title": "It means a lot to me",
+    "description": "Something is personally important or deeply appreciated.",
+    "details": "Example: Thanks for coming. It means a lot to me.\n\nUsage: Useful for sincere thanks or explaining why something matters."
+  }
+]
