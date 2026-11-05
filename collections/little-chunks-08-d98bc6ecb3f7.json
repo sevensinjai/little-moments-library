@@ -1,0 +1,102 @@
+[
+  {
+    "title": "How shall I put it?",
+    "description": "How can I express this carefully?",
+    "details": "Example: How shall I put it? The room is rather small.\n\nUsage: Conversational; gain time before a delicate statement."
+  },
+  {
+    "title": "Let me think",
+    "description": "Give me a moment to consider.",
+    "details": "Example: Let me think; Tuesday might work.\n\nUsage: Neutral; hold your speaking turn briefly."
+  },
+  {
+    "title": "What I mean is",
+    "description": "Here is my intended meaning.",
+    "details": "Example: What I mean is, we need more time.\n\nUsage: Neutral; clarify your own statement."
+  },
+  {
+    "title": "What I’m trying to say is",
+    "description": "Here is the point I want to communicate.",
+    "details": "Example: What I’m trying to say is, I trust you.\n\nUsage: Neutral; clarify a point you have struggled to express."
+  },
+  {
+    "title": "Let me put it another way",
+    "description": "I will explain it differently.",
+    "details": "Example: Let me put it another way: we’re out of time.\n\nUsage: Neutral; introduce a new formulation."
+  },
+  {
+    "title": "If you see what I mean",
+    "description": "If my intended idea is clear.",
+    "details": "Example: It feels a bit rushed, if you see what I mean.\n\nUsage: Conversational; check understanding indirectly."
+  },
+  {
+    "title": "Do you know what I mean?",
+    "description": "Do you understand the feeling or idea?",
+    "details": "Example: It’s hard to switch off, do you know what I mean?\n\nUsage: Informal; seek shared understanding."
+  },
+  {
+    "title": "You know what?",
+    "description": "I am about to share a new thought.",
+    "details": "Example: You know what? Let’s go for a walk.\n\nUsage: Informal; introduce a spontaneous thought."
+  },
+  {
+    "title": "Come to think of it",
+    "description": "I have just realised or remembered something.",
+    "details": "Example: Come to think of it, I’ve seen that film.\n\nUsage: Conversational; signal a fresh realisation."
+  },
+  {
+    "title": "Speaking of which",
+    "description": "That connects to another related point.",
+    "details": "Example: You mentioned lunch. Speaking of which, are you hungry?\n\nUsage: Neutral; bridge to a related topic."
+  },
+  {
+    "title": "By the way",
+    "description": "Here is an incidental new topic.",
+    "details": "Example: By the way, your parcel arrived.\n\nUsage: Neutral; introduce a side point."
+  },
+  {
+    "title": "While we’re on the subject",
+    "description": "Before we leave this topic.",
+    "details": "Example: While we’re on the subject, how was your interview?\n\nUsage: Neutral; add a related question or point."
+  },
+  {
+    "title": "Anyway, where were we?",
+    "description": "Let’s return to our interrupted discussion.",
+    "details": "Example: Anyway, where were we before the phone rang?\n\nUsage: Conversational; resume after a distraction."
+  },
+  {
+    "title": "As I was saying",
+    "description": "Returning to my previous point.",
+    "details": "Example: As I was saying, we should book early.\n\nUsage: Neutral; can sound pointed after an interruption."
+  },
+  {
+    "title": "Sorry to interrupt",
+    "description": "Excuse me for speaking before you finish.",
+    "details": "Example: Sorry to interrupt, but your taxi is here.\n\nUsage: Neutral; polite interruption."
+  },
+  {
+    "title": "Go on",
+    "description": "Please continue speaking.",
+    "details": "Example: You were saying something about work. Go on.\n\nUsage: Conversational; encourage someone to continue."
+  },
+  {
+    "title": "I’m with you so far",
+    "description": "I understand up to this point.",
+    "details": "Example: I’m with you so far; what happens next?\n\nUsage: Conversational; confirm ongoing comprehension."
+  },
+  {
+    "title": "Could you run that by me again?",
+    "description": "Please repeat or explain that once more.",
+    "details": "Example: Could you run that by me again? I missed the last bit.\n\nUsage: Conversational; politely request repetition."
+  },
+  {
+    "title": "Just to be clear",
+    "description": "To remove possible misunderstanding.",
+    "details": "Example: Just to be clear, we’re meeting at six.\n\nUsage: Neutral; confirm a specific detail."
+  },
+  {
+    "title": "I’ll let you get on",
+    "description": "I will stop taking up your time.",
+    "details": "Example: Thanks for the chat; I’ll let you get on.\n\nUsage: Conversational British usage; politely close a conversation."
+  }
+]

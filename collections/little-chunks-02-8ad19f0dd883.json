@@ -1,0 +1,102 @@
+[
+  {
+    "title": "As far as I’m concerned",
+    "description": "In my personal judgement.",
+    "details": "Example: As far as I’m concerned, we should stay.\n\nUsage: Neutral; introduce a firm personal opinion."
+  },
+  {
+    "title": "I’m in two minds",
+    "description": "I cannot decide between alternatives.",
+    "details": "Example: I’m in two minds about moving.\n\nUsage: Informal; follow with about and a noun or -ing form."
+  },
+  {
+    "title": "I have mixed feelings",
+    "description": "I feel both positive and negative.",
+    "details": "Example: I have mixed feelings about the news.\n\nUsage: Neutral; express conflicting emotions."
+  },
+  {
+    "title": "I’m not convinced",
+    "description": "I still have doubts.",
+    "details": "Example: I’m not convinced this will work.\n\nUsage: Neutral; disagree without sounding absolute."
+  },
+  {
+    "title": "I couldn’t agree more",
+    "description": "I agree completely.",
+    "details": "Example: I couldn’t agree more with you.\n\nUsage: Neutral; emphatic agreement."
+  },
+  {
+    "title": "That doesn’t sit right with me",
+    "description": "That makes me feel morally uncomfortable.",
+    "details": "Example: That decision doesn’t sit right with me.\n\nUsage: Conversational; express unease about fairness or ethics."
+  },
+  {
+    "title": "I’m leaning towards",
+    "description": "I slightly prefer one option.",
+    "details": "Example: I’m leaning towards the smaller flat.\n\nUsage: Neutral; a preference that is not final."
+  },
+  {
+    "title": "I’m on the fence",
+    "description": "I have not taken a side.",
+    "details": "Example: I’m on the fence about the proposal.\n\nUsage: Informal; remain undecided in a debate."
+  },
+  {
+    "title": "It’s not my cup of tea",
+    "description": "It does not suit my taste.",
+    "details": "Example: Camping isn’t my cup of tea.\n\nUsage: Informal British expression; a gentle dislike."
+  },
+  {
+    "title": "I’m quite keen on",
+    "description": "I am fairly enthusiastic about.",
+    "details": "Example: I’m quite keen on that idea.\n\nUsage: Conversational; follow with a noun or -ing form."
+  },
+  {
+    "title": "I’m fed up with",
+    "description": "I am annoyed by something continuing.",
+    "details": "Example: I’m fed up with these delays.\n\nUsage: Informal; stronger than simply bored."
+  },
+  {
+    "title": "I’m over the moon",
+    "description": "I am extremely happy.",
+    "details": "Example: I’m over the moon about the offer.\n\nUsage: Informal; celebrate very good news."
+  },
+  {
+    "title": "I’m a bit apprehensive",
+    "description": "I am slightly anxious about what’s ahead.",
+    "details": "Example: I’m a bit apprehensive about tomorrow.\n\nUsage: Neutral; anticipation of something uncertain."
+  },
+  {
+    "title": "It’s a weight off my shoulders",
+    "description": "A worry has been removed.",
+    "details": "Example: Getting the results is a weight off my shoulders.\n\nUsage: Conversational; relief after uncertainty."
+  },
+  {
+    "title": "I take your point",
+    "description": "I understand your argument.",
+    "details": "Example: I take your point, but it costs too much.\n\nUsage: Neutral; acknowledge an argument before responding."
+  },
+  {
+    "title": "I beg to differ",
+    "description": "I politely disagree.",
+    "details": "Example: I beg to differ on that point.\n\nUsage: Formal; can sound pointed in casual conversation."
+  },
+  {
+    "title": "I wouldn’t go that far",
+    "description": "I think that claim is too strong.",
+    "details": "Example: It’s good, but I wouldn’t go that far.\n\nUsage: Conversational; moderate an exaggerated opinion."
+  },
+  {
+    "title": "I’m all for it",
+    "description": "I strongly support the idea.",
+    "details": "Example: A longer lunch break? I’m all for it.\n\nUsage: Informal; enthusiastic support."
+  },
+  {
+    "title": "I have my reservations",
+    "description": "I have specific concerns.",
+    "details": "Example: I have my reservations about the timetable.\n\nUsage: Neutral; cautious criticism."
+  },
+  {
+    "title": "It means a lot to me",
+    "description": "It is personally very important.",
+    "details": "Example: Your support means a lot to me.\n\nUsage: Neutral; express sincere appreciation."
+  }
+]

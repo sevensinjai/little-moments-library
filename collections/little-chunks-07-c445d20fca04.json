@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Not to worry",
+    "description": "There is no need for concern.",
+    "details": "Example: Not to worry; we can catch the next bus.\n\nUsage: Conversational British reassurance."
+  },
+  {
+    "title": "A bit of a faff",
+    "description": "Something inconvenient and fiddly to do.",
+    "details": "Example: Setting up the printer was a bit of a faff.\n\nUsage: Informal British expression; a minor hassle."
+  },
+  {
+    "title": "I can’t be bothered",
+    "description": "I do not want to make the effort.",
+    "details": "Example: I can’t be bothered to cook tonight.\n\nUsage: Informal; can sound dismissive about duties."
+  },
+  {
+    "title": "It’s not the end of the world",
+    "description": "The problem is manageable.",
+    "details": "Example: We lost a point; it’s not the end of the world.\n\nUsage: Conversational; reassure without minimising serious distress."
+  },
+  {
+    "title": "That’s a bit steep",
+    "description": "That price seems too high.",
+    "details": "Example: Ten pounds for a sandwich? That’s a bit steep.\n\nUsage: Informal British usage; comment on price."
+  },
+  {
+    "title": "Cheap and cheerful",
+    "description": "Inexpensive but pleasant and adequate.",
+    "details": "Example: We found a cheap and cheerful café.\n\nUsage: Informal British expression; mildly approving."
+  },
+  {
+    "title": "It’s swings and roundabouts",
+    "description": "The gains and losses roughly balance.",
+    "details": "Example: The commute is longer but cheaper; it’s swings and roundabouts.\n\nUsage: Informal British expression; offsetting advantages."
+  },
+  {
+    "title": "Horses for courses",
+    "description": "Different choices suit different situations or people.",
+    "details": "Example: You like big cities; I prefer villages. Horses for courses.\n\nUsage: Informal British expression; accept different preferences."
+  },
+  {
+    "title": "Don’t get your hopes up",
+    "description": "Do not expect success too confidently.",
+    "details": "Example: Ask about tickets, but don’t get your hopes up.\n\nUsage: Conversational; manage expectations."
+  },
+  {
+    "title": "At a loose end",
+    "description": "Without anything particular to do.",
+    "details": "Example: I’m at a loose end this afternoon.\n\nUsage: Informal British usage; free and perhaps bored."
+  },
+  {
+    "title": "Under the weather",
+    "description": "Feeling slightly unwell.",
+    "details": "Example: I’m a bit under the weather today.\n\nUsage: Conversational; usually a minor illness."
+  },
+  {
+    "title": "A storm in a teacup",
+    "description": "Excessive fuss over a minor issue.",
+    "details": "Example: The row about the chairs was a storm in a teacup.\n\nUsage: British expression; dismisses an argument as exaggerated."
+  },
+  {
+    "title": "Put a spanner in the works",
+    "description": "Cause a plan to go wrong.",
+    "details": "Example: The strike put a spanner in the works.\n\nUsage: Informal British expression; disrupt arrangements."
+  },
+  {
+    "title": "Take it with a pinch of salt",
+    "description": "Treat the claim with some scepticism.",
+    "details": "Example: Take his stories with a pinch of salt.\n\nUsage: Conversational British wording; question reliability."
+  },
+  {
+    "title": "Not my finest hour",
+    "description": "A moment when I performed badly.",
+    "details": "Example: Forgetting her name was not my finest hour.\n\nUsage: Conversational; understated or humorous self-criticism."
+  },
+  {
+    "title": "I’m chuffed to bits",
+    "description": "I am very pleased and proud.",
+    "details": "Example: I’m chuffed to bits with my results.\n\nUsage: Informal British expression; enthusiastic satisfaction."
+  },
+  {
+    "title": "I’m absolutely shattered",
+    "description": "I am extremely tired.",
+    "details": "Example: After that shift, I’m absolutely shattered.\n\nUsage: Informal British usage; exhaustion."
+  },
+  {
+    "title": "It’s a bit of a grey area",
+    "description": "The rules or boundaries are unclear.",
+    "details": "Example: Working during leave is a bit of a grey area.\n\nUsage: Neutral; unclear interpretation, not merely unknown facts."
+  },
+  {
+    "title": "You’ve hit the nail on the head",
+    "description": "You have identified the issue exactly.",
+    "details": "Example: That’s the problem; you’ve hit the nail on the head.\n\nUsage: Conversational; endorse a precise observation."
+  },
+  {
+    "title": "Let’s not beat about the bush",
+    "description": "Let’s discuss the main issue directly.",
+    "details": "Example: Let’s not beat about the bush: we need help.\n\nUsage: Conversational British wording; ask for directness."
+  }
+]

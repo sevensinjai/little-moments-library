@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Fancy a cuppa?",
+    "description": "Would you like some tea?",
+    "details": "Example: You look cold. Fancy a cuppa?\n\nUsage: Informal British invitation; cuppa means a cup of tea."
+  },
+  {
+    "title": "We should catch up",
+    "description": "We should share our recent news.",
+    "details": "Example: We should catch up over lunch.\n\nUsage: Conversational; usually with someone you already know."
+  },
+  {
+    "title": "Make yourself at home",
+    "description": "Feel relaxed and comfortable here.",
+    "details": "Example: Come in and make yourself at home.\n\nUsage: Neutral; welcome a guest."
+  },
+  {
+    "title": "Help yourself",
+    "description": "Take what you want without asking.",
+    "details": "Example: There’s cake on the table; help yourself.\n\nUsage: Neutral; offer food or other available items."
+  },
+  {
+    "title": "It’s on me",
+    "description": "I will pay for this.",
+    "details": "Example: Put your wallet away; it’s on me.\n\nUsage: Informal; offer to cover the cost."
+  },
+  {
+    "title": "Let’s play it by ear",
+    "description": "Let’s decide as circumstances develop.",
+    "details": "Example: Let’s play it by ear on Saturday.\n\nUsage: Conversational; avoid a fixed plan."
+  },
+  {
+    "title": "I’ll take a rain check",
+    "description": "I decline now but may accept later.",
+    "details": "Example: I’ll take a rain check on dinner.\n\nUsage: Informal; suggest postponement, not a firm new date."
+  },
+  {
+    "title": "Give me a shout",
+    "description": "Contact me when you need something.",
+    "details": "Example: Give me a shout when you arrive.\n\nUsage: Informal British usage; no literal shouting needed."
+  },
+  {
+    "title": "We hit it off",
+    "description": "We liked each other immediately.",
+    "details": "Example: We hit it off at the party.\n\nUsage: Informal; describe a good first connection."
+  },
+  {
+    "title": "We go back a long way",
+    "description": "We have known each other for years.",
+    "details": "Example: Sam and I go back a long way.\n\nUsage: Conversational; a long-standing relationship."
+  },
+  {
+    "title": "We’ve drifted apart",
+    "description": "We have gradually become less close.",
+    "details": "Example: We’ve drifted apart since school.\n\nUsage: Neutral; gradual loss of closeness."
+  },
+  {
+    "title": "We see eye to eye",
+    "description": "We agree with each other.",
+    "details": "Example: We see eye to eye on most things.\n\nUsage: Conversational; often followed by on."
+  },
+  {
+    "title": "Clear the air",
+    "description": "Discuss tension to improve a relationship.",
+    "details": "Example: Let’s clear the air before dinner.\n\nUsage: Conversational; address an awkward disagreement."
+  },
+  {
+    "title": "No hard feelings",
+    "description": "There is no lasting resentment.",
+    "details": "Example: You chose someone else? No hard feelings.\n\nUsage: Conversational; reassure after disappointment or conflict."
+  },
+  {
+    "title": "I didn’t mean it like that",
+    "description": "You misunderstood my intention.",
+    "details": "Example: Sorry, I didn’t mean it like that.\n\nUsage: Conversational; clarify an unintended implication."
+  },
+  {
+    "title": "You can count on me",
+    "description": "You can rely on my support.",
+    "details": "Example: You can count on me to help.\n\nUsage: Neutral; a reassuring promise."
+  },
+  {
+    "title": "I owe you one",
+    "description": "I will return your favour.",
+    "details": "Example: Thanks for the lift; I owe you one.\n\nUsage: Informal; express gratitude for help."
+  },
+  {
+    "title": "Keep in touch",
+    "description": "Continue contacting each other.",
+    "details": "Example: It was lovely meeting you; keep in touch.\n\nUsage: Neutral; a friendly goodbye."
+  },
+  {
+    "title": "Send my regards",
+    "description": "Pass on my polite good wishes.",
+    "details": "Example: Send my regards to your parents.\n\nUsage: Neutral to formal; pass a greeting through someone."
+  },
+  {
+    "title": "I’ll leave you to it",
+    "description": "I will let you continue undisturbed.",
+    "details": "Example: You’re busy, so I’ll leave you to it.\n\nUsage: Conversational; politely end an interruption."
+  }
+]

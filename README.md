@@ -24,3 +24,15 @@ Example reminder file:
 ```
 
 The initial English collections come from the app's existing prepared import sets. IPA and respellings are approximate learning aids.
+
+## Little Chunks modules 02–08
+
+Imported from [Little Chunks](https://little-chunks-felix-1105.tomchanatuk.chatgpt.site) on 5 November 2026. Each module contains 20 reminders (140 total), preserving the website’s `title`, meaning, example, and usage text in its Little Moments export format. Module 01 is reserved on the source site and is not included. The source export has no IPA or pronunciation guide fields; none have been invented.
+
+- 02 · Opinions & feelings
+- 03 · Storytelling
+- 04 · Socialising & relationships
+- 05 · Explaining & reasoning
+- 06 · Work & university
+- 07 · Advanced British expressions
+- 08 · Fluency & conversation flow

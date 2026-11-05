@@ -1,0 +1,102 @@
+[
+  {
+    "title": "To cut a long story short",
+    "description": "To give only the main outcome.",
+    "details": "Example: To cut a long story short, we missed the train.\n\nUsage: Conversational; skip less important details."
+  },
+  {
+    "title": "It all started when",
+    "description": "This was the beginning.",
+    "details": "Example: It all started when I lost my keys.\n\nUsage: Neutral; introduce the first event."
+  },
+  {
+    "title": "Out of the blue",
+    "description": "Completely unexpectedly.",
+    "details": "Example: She called me out of the blue.\n\nUsage: Conversational; describe a surprise."
+  },
+  {
+    "title": "Before I knew it",
+    "description": "It happened surprisingly quickly.",
+    "details": "Example: Before I knew it, the week was over.\n\nUsage: Neutral; emphasise how quickly time passed."
+  },
+  {
+    "title": "One thing led to another",
+    "description": "Events developed into an unexpected result.",
+    "details": "Example: One thing led to another, and we started a band.\n\nUsage: Conversational; summarise a chain of events."
+  },
+  {
+    "title": "As luck would have it",
+    "description": "By chance, fortunately or unfortunately.",
+    "details": "Example: As luck would have it, a taxi appeared.\n\nUsage: Neutral; the context determines whether luck was good."
+  },
+  {
+    "title": "To make matters worse",
+    "description": "An extra problem followed.",
+    "details": "Example: To make matters worse, my phone died.\n\nUsage: Neutral; add a worsening development."
+  },
+  {
+    "title": "Much to my surprise",
+    "description": "I found this very unexpected.",
+    "details": "Example: Much to my surprise, he apologised.\n\nUsage: Neutral; emphasise your reaction."
+  },
+  {
+    "title": "In the meantime",
+    "description": "During the wait for something else.",
+    "details": "Example: Dinner will be ready soon; in the meantime, sit down.\n\nUsage: Neutral; simultaneous or intervening activity."
+  },
+  {
+    "title": "All of a sudden",
+    "description": "Very abruptly.",
+    "details": "Example: All of a sudden, the lights went out.\n\nUsage: Neutral; introduce a sudden change."
+  },
+  {
+    "title": "Looking back",
+    "description": "Considering the past now.",
+    "details": "Example: Looking back, I should have asked for help.\n\nUsage: Neutral; introduce reflection."
+  },
+  {
+    "title": "At the time",
+    "description": "During that particular past period.",
+    "details": "Example: At the time, I thought it was sensible.\n\nUsage: Neutral; contrast past understanding with the present."
+  },
+  {
+    "title": "The next thing I knew",
+    "description": "The next event I became aware of.",
+    "details": "Example: The next thing I knew, we were at the station.\n\nUsage: Conversational; a rapid or surprising transition."
+  },
+  {
+    "title": "It turned out to be",
+    "description": "It was eventually discovered to be.",
+    "details": "Example: It turned out to be the wrong address.\n\nUsage: Neutral; reveal an outcome or identity."
+  },
+  {
+    "title": "I ended up",
+    "description": "My eventual situation was unplanned.",
+    "details": "Example: I ended up walking home.\n\nUsage: Neutral; usually follow with an -ing form."
+  },
+  {
+    "title": "By the time",
+    "description": "When the specified moment arrived.",
+    "details": "Example: By the time we arrived, the shop had closed.\n\nUsage: Neutral; relate the timing of two events."
+  },
+  {
+    "title": "From that point on",
+    "description": "Starting then and continuing afterwards.",
+    "details": "Example: From that point on, I cycled to work.\n\nUsage: Neutral; mark a lasting change."
+  },
+  {
+    "title": "Against all odds",
+    "description": "Despite very unlikely chances of success.",
+    "details": "Example: Against all odds, we won the match.\n\nUsage: Neutral; emphasise overcoming major difficulty."
+  },
+  {
+    "title": "That was the last straw",
+    "description": "That final problem exhausted my patience.",
+    "details": "Example: Another cancelled train was the last straw.\n\nUsage: Conversational; after several earlier frustrations."
+  },
+  {
+    "title": "It was a blessing in disguise",
+    "description": "Something bad later proved beneficial.",
+    "details": "Example: Missing that job was a blessing in disguise.\n\nUsage: Conversational; explain an unexpectedly good consequence."
+  }
+]

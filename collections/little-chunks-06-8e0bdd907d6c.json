@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Get the ball rolling",
+    "description": "Start an activity or process.",
+    "details": "Example: Let’s get the ball rolling with introductions.\n\nUsage: Conversational; initiate shared work."
+  },
+  {
+    "title": "Keep me in the loop",
+    "description": "Continue updating me about developments.",
+    "details": "Example: Keep me in the loop about the project.\n\nUsage: Informal workplace usage; request updates."
+  },
+  {
+    "title": "Be on the same page",
+    "description": "Have a shared understanding.",
+    "details": "Example: Let’s check we’re on the same page.\n\nUsage: Conversational; align expectations."
+  },
+  {
+    "title": "Meet the deadline",
+    "description": "Finish by the required time.",
+    "details": "Example: We need another day to meet the deadline.\n\nUsage: Neutral; complete work on time."
+  },
+  {
+    "title": "Take on board",
+    "description": "Consider and accept feedback or ideas.",
+    "details": "Example: I’ll take your comments on board.\n\nUsage: Neutral; often used when receiving feedback."
+  },
+  {
+    "title": "Get up to speed",
+    "description": "Learn enough to become fully informed.",
+    "details": "Example: I need a day to get up to speed.\n\nUsage: Conversational; learn current details or processes."
+  },
+  {
+    "title": "Work out the details",
+    "description": "Resolve the specific arrangements.",
+    "details": "Example: We’ll work out the details tomorrow.\n\nUsage: Neutral; plan practical specifics."
+  },
+  {
+    "title": "Raise a concern",
+    "description": "Mention a potential problem.",
+    "details": "Example: Can I raise a concern about the budget?\n\nUsage: Neutral to formal; flag an issue politely."
+  },
+  {
+    "title": "Put forward an idea",
+    "description": "Suggest something for consideration.",
+    "details": "Example: She put forward an idea at the meeting.\n\nUsage: Neutral; propose a possible approach."
+  },
+  {
+    "title": "Follow up on",
+    "description": "Take further action about an earlier matter.",
+    "details": "Example: I’ll follow up on your email tomorrow.\n\nUsage: Neutral; continue an earlier discussion or task."
+  },
+  {
+    "title": "Hand in",
+    "description": "Submit completed work.",
+    "details": "Example: Please hand in your essay by Friday.\n\nUsage: Neutral; common in education."
+  },
+  {
+    "title": "Fall behind",
+    "description": "Make less progress than required.",
+    "details": "Example: I fell behind with my reading.\n\nUsage: Neutral; often followed by with or on."
+  },
+  {
+    "title": "Stay on top of",
+    "description": "Keep managing something successfully.",
+    "details": "Example: I use a list to stay on top of deadlines.\n\nUsage: Conversational; maintain control of tasks."
+  },
+  {
+    "title": "Learn the ropes",
+    "description": "Learn how a job or activity works.",
+    "details": "Example: It took a week to learn the ropes.\n\nUsage: Informal; learn practical basics."
+  },
+  {
+    "title": "A steep learning curve",
+    "description": "A period requiring rapid, substantial learning.",
+    "details": "Example: My first month was a steep learning curve.\n\nUsage: Neutral; common idiomatic workplace meaning."
+  },
+  {
+    "title": "Think outside the box",
+    "description": "Consider unconventional solutions.",
+    "details": "Example: We need to think outside the box here.\n\nUsage: Conversational workplace expression; can sound clichéd."
+  },
+  {
+    "title": "Go back to the drawing board",
+    "description": "Restart planning after an unsuccessful attempt.",
+    "details": "Example: The trial failed, so it’s back to the drawing board.\n\nUsage: Conversational; rethink a plan fundamentally."
+  },
+  {
+    "title": "Pull your weight",
+    "description": "Do your fair share of work.",
+    "details": "Example: Everyone needs to pull their weight.\n\nUsage: Informal; can sound critical or demanding."
+  },
+  {
+    "title": "On the right track",
+    "description": "Making progress in the correct direction.",
+    "details": "Example: Your first draft is on the right track.\n\nUsage: Neutral; encourage progress."
+  },
+  {
+    "title": "Room for improvement",
+    "description": "Scope to make something better.",
+    "details": "Example: There’s room for improvement in the introduction.\n\nUsage: Neutral; tactful but clear criticism."
+  }
+]

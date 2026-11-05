@@ -14,6 +14,55 @@
       "summary": "Everyday phrases with British IPA, pronunciation hints, and examples.",
       "reminderCount": 26,
       "file": "collections/english-reminders-pronunciation-fa476c406ecf.json"
+    },
+    {
+      "id": "little-chunks-02",
+      "title": "02 · Opinions & feelings",
+      "summary": "Little Chunks module 02: 20 phrases with meanings, everyday examples, and usage notes.",
+      "reminderCount": 20,
+      "file": "collections/little-chunks-02-8ad19f0dd883.json"
+    },
+    {
+      "id": "little-chunks-03",
+      "title": "03 · Storytelling",
+      "summary": "Little Chunks module 03: 20 phrases with meanings, everyday examples, and usage notes.",
+      "reminderCount": 20,
+      "file": "collections/little-chunks-03-89d70e2cc8ba.json"
+    },
+    {
+      "id": "little-chunks-04",
+      "title": "04 · Socialising & relationships",
+      "summary": "Little Chunks module 04: 20 phrases with meanings, everyday examples, and usage notes.",
+      "reminderCount": 20,
+      "file": "collections/little-chunks-04-72b9349ad770.json"
+    },
+    {
+      "id": "little-chunks-05",
+      "title": "05 · Explaining & reasoning",
+      "summary": "Little Chunks module 05: 20 phrases with meanings, everyday examples, and usage notes.",
+      "reminderCount": 20,
+      "file": "collections/little-chunks-05-636c8e4a5cda.json"
+    },
+    {
+      "id": "little-chunks-06",
+      "title": "06 · Work & university",
+      "summary": "Little Chunks module 06: 20 phrases with meanings, everyday examples, and usage notes.",
+      "reminderCount": 20,
+      "file": "collections/little-chunks-06-8e0bdd907d6c.json"
+    },
+    {
+      "id": "little-chunks-07",
+      "title": "07 · Advanced British expressions",
+      "summary": "Little Chunks module 07: 20 phrases with meanings, everyday examples, and usage notes.",
+      "reminderCount": 20,
+      "file": "collections/little-chunks-07-c445d20fca04.json"
+    },
+    {
+      "id": "little-chunks-08",
+      "title": "08 · Fluency & conversation flow",
+      "summary": "Little Chunks module 08: 20 phrases with meanings, everyday examples, and usage notes.",
+      "reminderCount": 20,
+      "file": "collections/little-chunks-08-d98bc6ecb3f7.json"
     }
   ]
 }

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "The main reason is",
+    "description": "This is the primary explanation.",
+    "details": "Example: The main reason is the cost.\n\nUsage: Neutral; introduce the most important cause."
+  },
+  {
+    "title": "What it comes down to is",
+    "description": "This is the essential deciding factor.",
+    "details": "Example: What it comes down to is trust.\n\nUsage: Conversational; reduce a complex issue to its core."
+  },
+  {
+    "title": "Given the circumstances",
+    "description": "Considering the current situation.",
+    "details": "Example: Given the circumstances, we did well.\n\nUsage: Neutral; judge something in its context."
+  },
+  {
+    "title": "For the sake of",
+    "description": "For the benefit or purpose of.",
+    "details": "Example: For the sake of clarity, I’ll repeat that.\n\nUsage: Neutral; state a purpose or beneficiary."
+  },
+  {
+    "title": "In light of",
+    "description": "Considering newly relevant information.",
+    "details": "Example: In light of the forecast, we’ll stay home.\n\nUsage: Formal; explain a decision based on evidence."
+  },
+  {
+    "title": "That’s why",
+    "description": "That explains the result.",
+    "details": "Example: The road was closed; that’s why I’m late.\n\nUsage: Neutral; link a cause to its consequence."
+  },
+  {
+    "title": "As a result",
+    "description": "Consequently.",
+    "details": "Example: The boiler broke; as a result, we had no hot water.\n\nUsage: Neutral; introduce an effect."
+  },
+  {
+    "title": "To some extent",
+    "description": "Partly, but not completely.",
+    "details": "Example: To some extent, I agree.\n\nUsage: Neutral; qualify how far a claim applies."
+  },
+  {
+    "title": "In other words",
+    "description": "Expressing the same idea differently.",
+    "details": "Example: It’s optional; in other words, you can say no.\n\nUsage: Neutral; clarify by rephrasing."
+  },
+  {
+    "title": "For instance",
+    "description": "To give a particular example.",
+    "details": "Example: Try a local class, for instance, pottery.\n\nUsage: Neutral; illustrate a broader point."
+  },
+  {
+    "title": "The way I see it",
+    "description": "From my perspective.",
+    "details": "Example: The way I see it, we have two options.\n\nUsage: Conversational; frame your interpretation."
+  },
+  {
+    "title": "On the grounds that",
+    "description": "For the stated reason that.",
+    "details": "Example: They refused on the grounds that it was unsafe.\n\nUsage: Formal; give a justification, often for a decision."
+  },
+  {
+    "title": "That said",
+    "description": "Despite what was just mentioned.",
+    "details": "Example: It’s expensive. That said, it lasts for years.\n\nUsage: Neutral; introduce a balancing point."
+  },
+  {
+    "title": "Even so",
+    "description": "Despite that fact.",
+    "details": "Example: It was raining; even so, we went out.\n\nUsage: Neutral; a result contrary to expectations."
+  },
+  {
+    "title": "Unless I’m mistaken",
+    "description": "If my understanding is correct.",
+    "details": "Example: Unless I’m mistaken, we’ve met before.\n\nUsage: Neutral; soften a factual assertion."
+  },
+  {
+    "title": "It stands to reason",
+    "description": "It is a logical conclusion.",
+    "details": "Example: It stands to reason that more staff would help.\n\nUsage: Neutral; indicate an apparently obvious inference."
+  },
+  {
+    "title": "There’s more to it than that",
+    "description": "The explanation is more complicated.",
+    "details": "Example: Price matters, but there’s more to it than that.\n\nUsage: Conversational; challenge an oversimplification."
+  },
+  {
+    "title": "That doesn’t necessarily mean",
+    "description": "That conclusion is not guaranteed.",
+    "details": "Example: It’s expensive, but that doesn’t necessarily mean it’s better.\n\nUsage: Neutral; separate evidence from an assumption."
+  },
+  {
+    "title": "Taking everything into account",
+    "description": "Considering all relevant factors.",
+    "details": "Example: Taking everything into account, we should wait.\n\nUsage: Neutral; introduce an overall judgement."
+  },
+  {
+    "title": "On balance",
+    "description": "After weighing advantages and disadvantages.",
+    "details": "Example: On balance, the move was worth it.\n\nUsage: Neutral; state a considered conclusion."
+  }
+]
