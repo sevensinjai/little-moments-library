@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "collections": [
+    {
+      "id": "english-reminders",
+      "title": "Everyday English",
+      "summary": "Useful phrases with meanings and explanations.",
+      "reminderCount": 26,
+      "file": "collections/english-reminders-8f67fb91eba5.json"
+    },
+    {
+      "id": "english-reminders-pronunciation",
+      "title": "English pronunciation",
+      "summary": "Everyday phrases with British IPA, pronunciation hints, and examples.",
+      "reminderCount": 26,
+      "file": "collections/english-reminders-pronunciation-fa476c406ecf.json"
+    }
+  ]
+}
